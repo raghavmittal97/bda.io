@@ -1,0 +1,69 @@
+CALL FOR PAPERS
+
+Eighth International Conference on Big Data Analytics
+December 15-18, 2020
+Ashoka University
+Sonepat (Delhi, NCR), India
+http://www.bda2020.org/
+
+
+The 8th International Conference on Big Data Analytics (BDA 2020) will be held during December 15-18, 2020 at Ashoka University, India.  The conference will be organized by Ashoka University. BDA 2020 provides an international forum for researchers and industry practitioners to share their original research results, practical experiences and thoughts on big data from different perspectives including storage models, data access, computing paradigms, analytics, information sharing and privacy, redesigning mining algorithms, open issues and future research trends.
+
+
+BDA 2020 invites original, technically sound, high-quality research papers proposing novel solutions addressing the problems related to big data analytics as well as case studies and practical experiences with big data. Major topics of interest to the conference include, but are not limited to:
+
+
+Analytics as a Service
+Architectural Design for Big Data
+Big Data Analytics for Governance
+Conceptual/cognitive/programming Models for Big data analytics
+Clustering of Big Data
+Data Fusion and Multi Modal Analytics
+Data Models for Big Data Analytics
+Domain-specific Analytics
+Index Structures for Big Data Analytics
+Interaction Design for Exploratory Analytics
+Machine Learning techniques for Big Data
+Large-scale recommendation systems and graph analysis
+
+Model Discovery from Big Data
+NoSQL and non-standard Data Models
+Physical Data Organization for Big Data
+Predictive Modelling
+Rule Mining from Big Data
+Scalability and Performance issues
+Security, privacy and legal issues specific to big data
+Semantics of Big Data
+Streaming Data Analytics
+Summarization and Materialized views
+Topic Modelling
+Unstructured and Semi-structured Data Mining
+
+
+Research Track Submissions
+
+Each paper should contain an abstract of approximately 300 words having a page limit of 20 pages in the LNCS style. The  submissions including the title page, references and appendix. For preparing the manuscript, please see instructions for authors by Springer, in the Lecture Notes in Computer Science series (LNCS). BDA proceedings will be published by Springer’s LNCS series. Authors of selected papers will be invited to submit extended versions of their work to IJCSE Journal.
+
+Submission Link: https://easychair.org/my/conference?conf=bda2020
+
+Important Dates: (All times in PST)
+
+Abstract submission: July 6, 2020, 23:59 PST
+Full paper submissions: July 13, 2020, 23:59 PST
+Research paper notifications: September 14, 2020, 23:59 PST
+Camera-ready submission: October 1, 2020, 23:59 PST
+
+Call for Workshops and Tutorials
+----------------------------------
+
+The BDA 2020 organizing committee invites proposals for half – day and full - day workshops and tutorials on established and emerging topics in the areas of Big Data Analytics and other related areas. Information for submission of each type of proposal is provided on the conference website.
+
+
+Note: Due to the Coronavirus pandemic, the conference is proposed to be held online. We are closely monitoring the situation and shall provide updates as necessary
+
+
+Contact/PC Co-Chairs of BDA 2020:
+
+Ladjel Bellatreche (bellatreche@ensma.fr), ENSMA, France
+Hamido Fujita (hfujita-799@acm.org), Iwate Prefectural University, Japan
+Vikram Goyal (vikram@iiitd.ac.in), IIIT Delhi, India
