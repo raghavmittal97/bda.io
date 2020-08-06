@@ -2,12 +2,16 @@ CALL FOR PAPERS
 
 Eighth International Conference on Big Data Analytics
 December 15-18, 2020
-Ashoka University
+Hosted by Ashoka University (The conference will be held FULLY ONLINE due to the COVID-19 pandemic situation.)
 Sonepat (Delhi, NCR), India
 http://www.bda2020.org/
 
+Updates:
+1) Paper submission deadline has been extended to Sep 7, 2020.
+2) We plan to have an exciting conference programme, which includes keynote talks by highly distinguished and top researchers such as Prof. Masaru Kitsuregawa (University of Tokyo, Japan), Prof. Ouri Wolfson (University of Illinois at Chicago, USA) and Prof. H.V. Jagadish (University of Michigan, USA).
+3) The conference will also have three stimulating multi-disciplinary workshops on the topics of Big Data associated with political data science, air quality and agriculture.
 
-The 8th International Conference on Big Data Analytics (BDA 2020) will be held during December 15-18, 2020 at Ashoka University, India.  The conference will be organized by Ashoka University. BDA 2020 provides an international forum for researchers and industry practitioners to share their original research results, practical experiences and thoughts on big data from different perspectives including storage models, data access, computing paradigms, analytics, information sharing and privacy, redesigning mining algorithms, open issues and future research trends.
+The 8th International Conference on Big Data Analytics (BDA 2020) will be held during December 15-18, 2020. The conference will be organized and hosted by Ashoka University. BDA 2020 provides an international forum for researchers and industry practitioners to share their original research results, practical experiences and thoughts on big data from different perspectives including storage models, data access, computing paradigms, analytics, information sharing and privacy, redesigning mining algorithms, open issues and future research trends.
 
 
 BDA 2020 invites original, technically sound, high-quality research papers proposing novel solutions addressing the problems related to big data analytics as well as case studies and practical experiences with big data. Major topics of interest to the conference include, but are not limited to:
@@ -53,17 +57,18 @@ Research Paper Notifications: October 10, 2020, 23:59 PST
 Camera-ready Submission Deadline: October 20, 2020, 23:59 PST
 
 
-Call for Workshops and Tutorials
+Call for Tutorials
 ----------------------------------
 
-The BDA 2020 organizing committee invites proposals for half – day and full - day workshops and tutorials on established and emerging topics in the areas of Big Data Analytics and other related areas. Information for submission of each type of proposal is provided on the conference website.
+The BDA 2020 organizing committee invites proposals for half – day and full - day tutorials on established and emerging topics in the areas of Big Data Analytics and other related areas. Information for submission of each type of proposal is provided on the conference website.
 
-
-Note: Due to the Coronavirus pandemic, the conference is proposed to be held online. We are closely monitoring the situation and shall provide updates as necessary
-
+Tutorial submission deadline has been extended to September 4, 2020.
 
 Contact/PC Co-Chairs of BDA 2020:
 
 Ladjel Bellatreche (bellatreche@ensma.fr), ENSMA, France
 Hamido Fujita (hfujita-799@acm.org), Iwate Prefectural University, Japan
 Vikram Goyal (vikram@iiitd.ac.in), IIIT Delhi, India
+
+Contact information of General Chair:
+Anirban Mondal (anirban.mondal@ashoka.edu.in; anirban2345@gmail.com), Ashoka University, India
