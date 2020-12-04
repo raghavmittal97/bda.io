@@ -1,0 +1,145 @@
+--------------------------------------------------------------------------------------------------------------------------------------
+
+The 8th International Conference on
+
+Big Data and Analytics (BDA 2020)
+
+December 15-18, 2020
+
+http://bda2020.org/
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+We are pleased to invite you to the 8th International Conference on Big Data Analytics (BDA 2020). The conference will be held virtually during December 15-18, 2020, and will be organized by Ashoka University. BDA 2020 provides an international forum for researchers and industry practitioners to share their original research results, practical experiences and thoughts on big data from different perspectives including storage models, data access, computing paradigms, analytics, information sharing and privacy, redesigning mining algorithms, open issues and future research trends. 
+
+The conference will have a strong technical agenda with
+
+    5 keynote talks 
+
+    5 invited talks 
+
+    3 tutorials 
+
+    1 panel 
+
+    3 workshops (Political data science, Air Quality, Agricultural data science)
+
+    14 peer-reviewed research papers
+
+
+HIGHLIGHTS OF THE CONFERENCE
+
+ Keynote Speakers
+
+    Prof. Masaru Kitsuregawa, University of Tokyo; National Institute of Informatics, Japan
+
+    Prof. Divyakant Agrawal, UCSB, USA
+
+    Prof. H.V. Jagadish, University of Michigan, USA
+
+    Prof. Ouri Wolfson, University of Illinois at Chicago,USA
+
+    Prof. Amit Sheth, University of South Carolina, USA
+
+
+ Invited Speakers
+
+    Prof. Marcin Paprzycki, Systems Research Institute, Polish Academy of Sciences
+
+    Prof. Carlos Ordonez, Associate Professor, University of Houston, USA
+
+    Prof. Praveen Rao, University of Missouri - Columbia, USA
+
+    Dr. Rajeev Gupta, Principal Applied Researcher, Microsoft
+
+    Dr. Srikanta Bedathur/Dr. Raghava Mutharaju, IIT Delhi, IIIT Delhi
+
+
+Tutorials
+
+    Asoke Talukder: Next Generation Web: Technologies and Services
+
+    Hridoy Sankar Dutta and Tanmoy Chakraborty: Adversarial Collusion on the Web: State-of-the-art and Future Directions
+
+    Mayuri Mehta: Growing Role of Big Data and AI in Transforming Healthcare Industry
+
+
+REGISTRATIONS
+
+Registration fees are nominal.  
+
+Non-authors of accepted papers (academicians/industry professionals): INR 1000 / USD 15
+
+Students: INR 300 / USD 7
+
+For group registrations of more than 10 people from a given organization/University/company, please contact us for discounts.
+
+Registration link: https://payments.ashoka.edu.in/
+
+
+ORGANIZING COMMITTEE
+
+Honorary Chairs
+
+    Malabika Sarkar, Vice Chancellor at Ashoka University, India
+
+    Praveen Kumar, Director at NIT Delhi, India
+
+General Chair
+
+    Anirban Mondal, Ashoka University, India
+
+Organizing Committee Chair
+
+    Shelly Sachdeva, NIT Delhi, India
+
+Program Committee Chairs
+
+    Ladjel Bellatreche, ENSMA, France
+
+    Hamido Fujita, Iwate Prefectural University, Japan
+
+    Vikram Goyal, IIIT Delhi, India
+
+Workshop Chairs
+
+    Sanjay Chaudhary, Ahmedabad University, India
+
+    Vasudha Bhatnagar, University of Delhi, India
+
+    Satish Narayana Srirama, University of Tartu, Estonia
+
+Proceedings Chair
+
+    Subhash Bhalla, University of Aizu, Japan
+
+Tutorial Chair
+
+    Sanjay Kumar Madria, Missouri University of Science and Technology, USA
+
+    Punam Bedi, Delhi University, India
+
+Publicity Chairs
+
+    Manu Awasthi, Ashoka University, India
+
+    Sonali Agarwal, IIIT Allahabad, India
+
+    Rajiv Ratn Shah, IIIT Delhi, India
+
+Panel Chair
+
+    Sharma Chakravarthy, The University of Texas at Arlington, USA
+
+Website Chair
+
+    Samant Saurabh, IIM Bodh Gaya, India
+
+Website Administrator
+
+    Raghav Mittal, Ashoka University, India
+
+Contact
+
+    Anirban Mondal, Ashoka University; anirban.mondal@ashoka.edu.in; Phone: (91)-9620999076
